@@ -7,7 +7,7 @@ Website for Courses and  tutorials .
 LMS Website that can be used by Instructors and Students.
 
 
-+ Instructor Role : 
+# Instructor Role : 
 
 
 - Add courses and resources for that course.
@@ -15,9 +15,10 @@ LMS Website that can be used by Instructors and Students.
 - Add Quiz Questions for each course.
 
 - Add Answers for each Quiz Question.
+ - uploading documents online to help Students.
 
 
-+ Student Role :
+# Student Role :
 
 
 - View courses and resources for that any course.
@@ -27,7 +28,7 @@ LMS Website that can be used by Instructors and Students.
 - get Answers for each Quiz Question.
 
 
-+ Features :
+# Features :
 
 
 - Authorization and Authentication in Sign up and log in.
